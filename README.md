@@ -1,4 +1,4 @@
 # temp-node-tutorial
-# my-temp-node
-# my-temp-node
-# tempt-node-tutorail
+Please follow the following command
+
+npm install
